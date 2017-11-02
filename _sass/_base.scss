@@ -20,6 +20,9 @@
 body {
   font-size: $base-font-size;
   line-height: $base-line-height;
+      line-height: 1.6;
+    color: var(--text-color);
+     background-color: var(--bg-color);
 }
 
 .highlighter-rouge {
@@ -31,7 +34,6 @@ body {
     --text-color-light: #828282;
     --link-color: #000;
     /* --metadata-color: #999; */
-    --post-title: #313131;
 }
 
 
