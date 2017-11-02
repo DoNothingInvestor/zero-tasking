@@ -20,19 +20,26 @@
 body {
   font-size: $base-font-size;
   line-height: $base-line-height;
-    --bg-color: #eee;
-    --text-color: #484848;
-    --text-color-light: #828282;
-    --link-color: #000;
-    --metadata-color: #999;
-    --post-title: #313131;
-    --code-bg-color: #fff;
-    --code-border: #f5f5f5;
-    --table-border-color: #e5e5e5;
-    --table-header-color: #fefefe;
-    --shadow-color: rgba(0, 0, 0, 0.1);
-    --invert-logo-color: invert(0);
 }
+
+.highlighter-rouge {
+  --code-bg-color: #fff;
+ 
+}
+
+
+//     --bg-color: #eee;
+//     --text-color: #484848;
+//     --text-color-light: #828282;
+//     --link-color: #000;
+//     --metadata-color: #999;
+//     --post-title: #313131;
+//     --code-bg-color: #fff;
+//     --code-border: #f5f5f5;
+//     --table-border-color: #e5e5e5;
+//     --table-header-color: #fefefe;
+//     --shadow-color: rgba(0, 0, 0, 0.1);
+//     --invert-logo-color: invert(0);
 
 .page {
       margin-bottom: 8em;
