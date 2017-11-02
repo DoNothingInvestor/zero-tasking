@@ -26,13 +26,14 @@ blog:
 
 # Author info
 author:
-  fullname : Kevin 
+  fullname : Kevin.L 
   # generate RSS feed and show it's icon in header
-  ## rss: true
-  ## mail: your@email.com # change to your e-mail address
+  # rss: true
+  # change to your e-mail address
+  mail: your@email.com 
   ## twitter: twitter-user-name
   github: https://github.com/DoNothingInvestor
-  youtube: youtube-user-name
+  #youtube: youtube-user-name
   #stackoverflow: stackoverflow-user-name
   #disqus: # your_disqus_forum_shortname
   google_analytics: # 'UA-XXXXXXXX-X'
