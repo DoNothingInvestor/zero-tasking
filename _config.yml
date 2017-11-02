@@ -26,14 +26,15 @@ blog:
 
 # Author info
 author:
-  fullname : Your Name
-  rss: true # generate RSS feed and show it's icon in header
-  mail: your@email.com # change to your e-mail address
-  twitter: twitter-user-name
-  github: github-user-name
+  fullname : Kevin 
+  # generate RSS feed and show it's icon in header
+  ## rss: true
+  ## mail: your@email.com # change to your e-mail address
+  ## twitter: twitter-user-name
+  github: https://github.com/DoNothingInvestor
   youtube: youtube-user-name
-  stackoverflow: stackoverflow-user-name
-  disqus: # your_disqus_forum_shortname
+  #stackoverflow: stackoverflow-user-name
+  #disqus: # your_disqus_forum_shortname
   google_analytics: # 'UA-XXXXXXXX-X'
   photo: "uploads/me2.png"
   photo2x: "uploads/me.png"
