@@ -5,9 +5,8 @@ url : ""  # the base hostname & protocol for your site
           # `http://<username>.github.io` - for GitHub
 
 blog:
-  title: 
-  |
-  DoNothing
+  title:
+  >- DoNothing
   Investor
   #this should contain a proper description
   description: The Hardest Part of Investing Is Doing Nothing
@@ -17,6 +16,7 @@ blog:
   #logo_path: "assets/img/donothing.svg"
   search_path: # "yourgitusername.github.io"
                # needed for searchbox in archive page
+               "donothinginvestor.com"
   hero_layout: true # turn on hero layout for blog and posts
   hero_placeholder: "assets/img/generic_hero.jpg" # placeholder for hero image
   excerpts: true # show excerpts instead of full post content on blog page
