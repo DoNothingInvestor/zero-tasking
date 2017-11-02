@@ -5,7 +5,8 @@ url : ""  # the base hostname & protocol for your site
           # `http://<username>.github.io` - for GitHub
 
 blog:
-  title: DoNothingInvestor
+  title: DoNothing
+         Investor
   #this should contain a proper description
   description: The Hardest Part of Investing Is Doing Nothing
                                
