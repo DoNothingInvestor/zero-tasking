@@ -14,7 +14,7 @@ blog:
   #logo_path: "assets/img/donothing.svg"
   search_path: # "yourgitusername.github.io"
                # needed for searchbox in archive page
-               'DoNothingInvestor.com'
+               'www.DoNothingInvestor.com'
   hero_layout: true # turn on hero layout for blog and posts
   hero_placeholder: "assets/img/generic_hero.jpg" # placeholder for hero image
   excerpts: true # show excerpts instead of full post content on blog page
