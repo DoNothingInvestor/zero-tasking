@@ -53,14 +53,6 @@ plugins:
   - jekyll-sitemap
   - algoliasearch-jekyll
 
-# jekyll-archives
-enabled: all
-enabled:
-  - categories
-enabled:
-  - year
-  - month
-  - tags
 
 # Permalinks
 permalink: posts/:slug
