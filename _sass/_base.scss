@@ -20,9 +20,22 @@
 body {
   font-size: $base-font-size;
   line-height: $base-line-height;
+     line-height: 1.6;
+    color: var(--text-color);
+     background-color: var(--bg-color);
   line-height: 1.6;
-}
-
+  }
+  
+ .highlighter-rouge {
+   --code-bg-color: #fff;
+       line-height: 1.6;
+     color: var(--text-color);
+      --bg-color: #eee;
+     --text-color: #484848;
+     --text-color-light: #828282;
+     --link-color: #000;
+     /* --metadata-color: #999; */
+ }
 
 
 //     --bg-color: #eee;
