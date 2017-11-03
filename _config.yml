@@ -51,7 +51,9 @@ author:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - algoliasearch-jekyll
+  - jekyll-archives
+
+# jekyll-archives
 
 
 # Permalinks
@@ -69,7 +71,7 @@ collections:
   my_tags:
     output: true
     permalink: /tag/:slug/
-    defaults:
+defaults:
   -
     scope:
       path: ""
