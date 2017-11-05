@@ -1,24 +1,18 @@
 ---
-layout: blog-by-tag
+layout: post
 title: 'this is an new post '
 date: 2017-11-05 00:00:00 +0000
-slug: 'invest '
-name: 'this is a new post '
-description: ''
----
----
-
-layout: post
-
-title: Example content
-
 tags:
-
   - jekyll
   - dactl
   - investing
   - invest
  
+slug: 'invest'
+name: 'this is a new post '
+overlay: blue
+---
+
 description: >
 
   Howdy! This is an example blog post that shows several types of HTML content
@@ -26,10 +20,6 @@ description: >
   supported in this theme.
 
 hero: [https://source.unsplash.com/collection/145103/](https://source.unsplash.com/collection/145103/ "https://source.unsplash.com/collection/145103/")
-
-overlay: green
-
-published: true
 
 ---
 
