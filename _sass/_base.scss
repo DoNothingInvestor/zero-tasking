@@ -17,8 +17,9 @@
 //     color: var(--text-color);
 //     background-color: var(--bg-color);
 // }
+//  font-size: $base-font-size;
 body {
-  font-size: $base-font-size;
+  font-size: $mobile-font-size;
   line-height: $base-line-height;
      line-height: 1.6;
     color: var(--text-color);
