@@ -1,0 +1,4 @@
+---
+slug: invest
+name: Invest
+---
