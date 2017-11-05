@@ -1,9 +1,11 @@
 ---
 pages:
+- _my_tags/investing.md
+- _my_tags/invest.md
 - _my_tags/dactl.md
 - _my_tags/jekyll.md
 - _my_tags/howto.md
-- _posts/this-is-an-new-post.md
+- _posts/2017-11-06-this-is-an-new-post.md
 hide_body: false
 fields:
 - name: slug
