@@ -1,8 +1,9 @@
 ---
 pages:
+- _my_tags/dactl.md
 - _my_tags/jekyll.md
 - _my_tags/howto.md
-- _my_tags/dactl.md
+- _posts/this-is-an-new-post.md
 hide_body: false
 fields:
 - name: slug
