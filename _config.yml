@@ -11,8 +11,8 @@ blog:
                                
 # Layout configuration
   #logo_path: "assets/img/DoNothingInvestor.png" # path to logo file
-  #logo_path: "assets/img/donothing.svg"
-  #search_path: # "yourgitusername.github.io"
+  logo_path: "assets/img/DNT_logo.svg"
+  search_path: "" # "yourgitusername.github.io"
                # needed for searchbox in archive page
                # 'www.DoNothingInvestor.com'
   hero_layout: true # turn on hero layout for blog and posts
