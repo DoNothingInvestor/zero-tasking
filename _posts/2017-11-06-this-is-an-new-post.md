@@ -1,28 +1,17 @@
 ---
 layout: post
 title: 'this is an new post '
-date: 2017-11-05 00:00:00 +0000
 tags:
-  - jekyll
-  - dactl
   - investing
   - invest
- 
 slug: 'invest'
-name: 'this is a new post '
 overlay: blue
----
-
-description: >
-
-  Howdy! This is an example blog post that shows several types of HTML content
-
-  supported in this theme.
-
+published: true
 hero: [https://source.unsplash.com/collection/145103/](https://source.unsplash.com/collection/145103/ "https://source.unsplash.com/collection/145103/")
 
 ---
 
+This is just a beginning.
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. \*Aenean eu leo quam.\* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 {: .lead}
